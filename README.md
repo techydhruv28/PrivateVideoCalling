@@ -34,3 +34,6 @@ This project is built using pure WebRTC with no forwarding server in the middle,
 
 # Future goals
 Add a forwarding server using technologies such as `mediasoup` to host bigger rooms
+
+# Code Owner
+[@developer](https://github.com/developerrahulofficial)
